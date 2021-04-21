@@ -1,0 +1,19 @@
+{
+  "name": "jsonserveremomo.nosync",
+  "version": "1.0.0",
+  "description": "JSON server for EverestMoMo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SthAneal/jsonserver-everestmomo.git"
+  },
+  "author": "Anil Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SthAneal/jsonserver-everestmomo/issues"
+  },
+  "homepage": "https://github.com/SthAneal/jsonserver-everestmomo#readme"
+}
