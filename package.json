@@ -4,7 +4,8 @@
   "description": "JSON server for EverestMoMo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "db":"json-server -w db.json",
+    "tunnel":"ngrok http 3000"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/SthAneal/jsonserver-everestmomo/issues"
   },
-  "homepage": "https://github.com/SthAneal/jsonserver-everestmomo#readme"
+  "homepage": "https://github.com/SthAneal/jsonserver-everestmomo#readme",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "ngrok": "^4.0.1"
+  }
 }

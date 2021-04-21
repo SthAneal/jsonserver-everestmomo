@@ -1,0 +1,29 @@
+{
+    "data":{
+        "name":"home",
+        "posts":[
+            {
+                "slider":{
+                    "alias":"slider",
+                    "headerImage":null,
+                    "content":"",
+                    "type":"parent_content",
+                    "gallery":[
+                        {
+                            "image":"slider1.jpg",
+                            "altTxt":"this is slider 1"
+                        },
+                        {
+                            "image":"slider2.jpg",
+                            "altTxt":"this is slider 2"
+                        },
+                        {
+                            "image":"slider3.jpg",
+                            "altTxt":"this is slider 3"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
